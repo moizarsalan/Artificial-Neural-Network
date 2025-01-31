@@ -1,4 +1,4 @@
-ask of this project is to train a deep learning model that is able to solve an object detection problem. The specific problem solved in this notebook is "Facemask carrying detection" problem, where the deep learning model needs to detect if people are wearing masks or not.
+Task of this project is to train a deep learning model that is able to solve an object detection problem. The specific problem solved in this notebook is "Facemask carrying detection" problem, where the deep learning model needs to detect if people are wearing masks or not.
 
 Dataset used for this purpose has images belonging to three classes - no mask, mask and mask worn incorrectly.
 
